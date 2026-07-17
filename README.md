@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
