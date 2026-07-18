@@ -32,6 +32,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,8 +46,17 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
