@@ -35,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
