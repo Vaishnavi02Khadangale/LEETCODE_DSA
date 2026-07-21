@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -61,4 +63,20 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
