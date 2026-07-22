@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
