@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -88,6 +89,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
