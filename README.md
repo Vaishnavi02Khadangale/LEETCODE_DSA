@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0137-single-number-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
