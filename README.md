@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
