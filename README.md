@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0137-single-number-ii) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
