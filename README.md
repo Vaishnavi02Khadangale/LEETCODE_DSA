@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0035-search-insert-position) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
