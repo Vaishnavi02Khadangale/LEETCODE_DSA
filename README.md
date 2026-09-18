@@ -54,6 +54,7 @@
 | [0011-container-with-most-water](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
 | ------- |
