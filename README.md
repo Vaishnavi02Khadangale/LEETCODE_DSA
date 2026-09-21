@@ -54,6 +54,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
@@ -72,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
 ## Recursion
@@ -118,4 +120,20 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
