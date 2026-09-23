@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -57,6 +58,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -70,6 +72,7 @@
 | [0050-powx-n](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
