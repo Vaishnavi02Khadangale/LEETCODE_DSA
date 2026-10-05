@@ -30,6 +30,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
