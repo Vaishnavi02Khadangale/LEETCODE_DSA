@@ -69,6 +69,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -87,6 +88,7 @@
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
