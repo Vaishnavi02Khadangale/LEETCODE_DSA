@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -32,6 +33,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +48,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0179-largest-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -70,6 +73,7 @@
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -114,6 +118,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
