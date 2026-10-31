@@ -33,6 +33,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -100,6 +102,7 @@
 | [0125-valid-palindrome](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0567-permutation-in-string) |
