@@ -83,6 +83,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -94,6 +95,7 @@
 | [0069-sqrtx](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -105,6 +107,7 @@
 | [0242-valid-anagram](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
