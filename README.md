@@ -108,6 +108,7 @@
 | [0344-reverse-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
