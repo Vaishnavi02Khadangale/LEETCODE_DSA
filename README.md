@@ -17,6 +17,7 @@
 | [0137-single-number-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -34,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -51,6 +53,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
