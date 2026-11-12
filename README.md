@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -37,6 +38,7 @@
 | [0169-majority-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +157,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/0567-permutation-in-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaishnavi02Khadangale/LEETCODE_DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
